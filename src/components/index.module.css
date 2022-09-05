@@ -12,6 +12,9 @@
   margin-bottom: var(--size-gap);
   margin-top: var(--size-gap);
 }
+h1 {
+  color: red;
+}
 
 .listItem {
   margin: 0;
